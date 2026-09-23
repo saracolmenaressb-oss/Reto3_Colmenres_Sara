@@ -55,10 +55,15 @@ CREATE TABLE IF NOT EXISTS participantes (
 
 ![alt text](image-5.png)
 
-5.
-
-
-
-6. Elimina uno por su id y cuenta de nuevo: el total debe disminuir en 1
+5. Elimina uno por su id y cuenta de nuevo: el total debe disminuir en 1
 
 ![alt text](image-6.png)
+
+6. Intenta eliminar un id que no existe: debe informarse claramente, sin errores no controlados.
+
+![alt text](image-7.png)
+
+7. Intenta inscribir a alguien con un correo que ya usaste: debe rechazarse sin detener el programa.
+
+![alt text](image-8.png)
+
