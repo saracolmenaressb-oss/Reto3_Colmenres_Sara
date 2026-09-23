@@ -1,0 +1,6 @@
+com\mycompany\javadatabase\Modelo\Persistencia\ConexionDB.class
+com\mycompany\javadatabase\Controlador\ConexionBD.class
+com\mycompany\javadatabase\Controlador\ControladorUsuario.class
+com\mycompany\javadatabase\Modelo\Clases\Usuarios.class
+com\mycompany\javadatabase\Modelo\Persistencia\Operaciones.class
+com\mycompany\javadatabase\Vista\JavaDatabase.class
