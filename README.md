@@ -56,3 +56,9 @@ CREATE TABLE IF NOT EXISTS participantes (
 ![alt text](image-5.png)
 
 5.
+
+
+
+6. Elimina uno por su id y cuenta de nuevo: el total debe disminuir en 1
+
+![alt text](image-6.png)
