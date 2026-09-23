@@ -1,6 +1,6 @@
 D:\USUARIO\Documents\NetBeansProjects\JavaDatabase\src\main\java\com\mycompany\javadatabase\Controlador\ConexionBD.java
-D:\USUARIO\Documents\NetBeansProjects\JavaDatabase\src\main\java\com\mycompany\javadatabase\Controlador\ControladorUsuario.java
-D:\USUARIO\Documents\NetBeansProjects\JavaDatabase\src\main\java\com\mycompany\javadatabase\Modelo\Clases\Usuarios.java
+D:\USUARIO\Documents\NetBeansProjects\JavaDatabase\src\main\java\com\mycompany\javadatabase\Controlador\ControladorParticipante.java
+D:\USUARIO\Documents\NetBeansProjects\JavaDatabase\src\main\java\com\mycompany\javadatabase\Modelo\Clases\Participante.java
 D:\USUARIO\Documents\NetBeansProjects\JavaDatabase\src\main\java\com\mycompany\javadatabase\Modelo\Persistencia\ConexionDB.java
 D:\USUARIO\Documents\NetBeansProjects\JavaDatabase\src\main\java\com\mycompany\javadatabase\Modelo\Persistencia\Operaciones.java
 D:\USUARIO\Documents\NetBeansProjects\JavaDatabase\src\main\java\com\mycompany\javadatabase\Vista\JavaDatabase.java

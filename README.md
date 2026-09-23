@@ -22,7 +22,7 @@ Aplicación de consola en Java desarrollada bajo la arquitectura **MVC (Modelo-V
 Ejecuta el siguiente script SQL en tu gestor (MySQL Workbench / DBeaver) para crear la tabla requerida:
 
 ```sql
--- Ajusta el USE según tu entorno (my_db o campus)
+
 USE my_db; 
 
 CREATE TABLE IF NOT EXISTS participantes (
@@ -31,3 +31,28 @@ CREATE TABLE IF NOT EXISTS participantes (
  correo VARCHAR(120) NOT NULL UNIQUE,
  empresa VARCHAR(100) NOT NULL
 );
+
+----
+## Pruebas:
+
+1. Registrar tres participantes:
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+2. Listar participantes
+
+![alt text](image-3.png)
+
+3. Busca por una de las empresas que registraste
+
+![alt text](image-4.png)
+
+4. Cuenta los participantes
+
+![alt text](image-5.png)
+
+5.

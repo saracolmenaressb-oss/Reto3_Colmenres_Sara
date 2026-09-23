@@ -19,7 +19,7 @@ import java.util.List;
  */
 public class ControladorParticipante {
 
-    // 1. INSCRIBIR PARTICIPANTE (Con validaciones y transacción)
+    // 1. INSCRIBIR PARTICIPANTE 
     public static boolean registrarParticipante(String nombre, String correo, String empresa) throws SQLException {
         // Validar campos vacíos
         if (nombre == null || nombre.trim().isEmpty() || 

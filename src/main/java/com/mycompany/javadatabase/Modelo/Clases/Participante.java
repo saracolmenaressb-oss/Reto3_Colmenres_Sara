@@ -27,7 +27,7 @@ public class Participante {
         this.empresa = empresa;
     }
 
-    // Constructor sin ID (para cuando se va a insertar un nuevo registro)
+    // Constructor sin ID 
     public Participante(String nombre, String correo, String empresa) {
         this.nombre = nombre;
         this.correo = correo;
